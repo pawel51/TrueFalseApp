@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q1">Moon is a planet</string>
+    <string name="a1">False</string>
+    <string name="q2">Kotlin is official android language</string>
+    <string name="a2">True</string>
+    <string name="q3">First astronaut in space was Neil Armstrong</string>
+    <string name="a3">False</string>
+    <string name="q4">I like dogs</string>
+    <string name="a4">True</string>
+</resources>

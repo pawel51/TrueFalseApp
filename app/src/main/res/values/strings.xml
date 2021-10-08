@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task1_SM</string>
+    <string name="false_button">False</string>
+    <string name="true_button">true</string>
+    <string name="textview">TextView</string>
+    <string name="next">Next</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect"><![CDATA[Incorrect! :<]]></string>
+</resources>
